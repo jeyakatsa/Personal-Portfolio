@@ -1,12 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+    pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="css/index.css">	
-		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
-			rel="stylesheet" >
 			
 		<meta charset="UTF-8">
 		
@@ -18,7 +16,7 @@
 		<meta name="author" content="Jeremy Akatsa">
 		<meta name="viewport" id="viewport" content="width=device-width,user-scalable=yes,initial-scale=1" >
 		
-		<link rel="icon" type="image/x-icon" href="/icons&images/Icon.ico" sizes="156x156">
+		<link rel="icon" type="image/x-icon" href="/icons&images/Iconic.ico" sizes="156x156">
 		<link rel="canonical" href="https://jeremyakatsa.com">
 		
 		<meta property="og:image" content="https://user-images.githubusercontent.com/51394348/100557204-6783c100-325c-11eb-84c6-c74963559591.jpg">	
@@ -39,7 +37,7 @@
 		<meta name="description" content="Software Developer">
 <!-- Above information for social media sharing and search-engine/browser optimization -->	
 
-	<title>Cryptodea</title>
+	<title>Jeremy Akatsa</title>
 </head>
 	<body>
 	
@@ -76,16 +74,16 @@
 	<section id="work" class="projects-section">
 	  <h2 class="projects-section-header">Work</h2>
 	  <div class="projects-grid">
-	    <a href="JavaScript_Documentation_Page.html" target="_blank" class="project-4"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
+	    <a href="/javascript" target="_blank" class="project-4"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
 	      <p class="project-title">Tech Document Page</p>
 	    </a>
-	    <a href="Product_Landing_Page.html" target="_blank" class="project-5"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610809-0d0b5d80-f74a-11e9-9cc1-0bb62375fd65.jpg"/>
+	    <a href="/productpage" target="_blank" class="project-5"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610809-0d0b5d80-f74a-11e9-9cc1-0bb62375fd65.jpg"/>
 	      <p class="project-title">Product Landing Page</p>
 	    </a>
-	    <a href="Survey_Form_For_FreeCodeCamp.html" target="_blank" class="project-6"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610862-58257080-f74a-11e9-8821-17196f6eb330.jpg"/>
+	    <a href="/surveyform" target="_blank" class="project-6"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610862-58257080-f74a-11e9-8821-17196f6eb330.jpg"/>
 	      <p class="project-title">Survey Form</p>
 	    </a>
-	    <a href="Tribute_Page.html" target="_blank" class="project-7"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg" />
+	    <a href="/tribute" target="_blank" class="project-7"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg" />
 	      <p class="project-title">Tribute Page</p>
 	    </a>
 	  </section>

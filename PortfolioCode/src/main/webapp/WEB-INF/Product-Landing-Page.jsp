@@ -43,7 +43,7 @@
 	
 	<header id="header">
 	  <div class="logo">
-	    <img id="header-img" src="css/ProductLandingPageLogo.png" />
+	    <img id="header-img" src="https://user-images.githubusercontent.com/51394348/100691938-a427e900-333e-11eb-9097-f150d431d07e.png" />
 	  </div>
 	</header>
 	<br>

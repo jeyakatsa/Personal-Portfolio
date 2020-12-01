@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="JavaScript-Doc-Page.css">	
+		<link rel="stylesheet" type="text/css" href="css/JavaScript-Doc-Page.css">	
 			
 		<meta charset="UTF-8">
 		

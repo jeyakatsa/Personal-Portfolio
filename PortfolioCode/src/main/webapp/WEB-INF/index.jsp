@@ -66,9 +66,12 @@
 	<section id="about" class="welcome-section">
 	  <h1>JA</h1>
 	  <p id="name">Jeremy Akatsa</p>
-	  <div id="describe">Software Engineer</div>
+ 	  <div id="describe">Software Engineer</div>
 	  <hr>
-	  <p id="description">JavaScript, HTML, CSS, Debugging, etc</p>
+	  <p id="description">Java, JavaScript, jQuery, Git, Github & Terminal, AWS, 
+	  Responsive Web Design, Balsamiq, Bootstrap, 
+	  LESS & SASS, Java 8, JSP, SpringMVC, MySQL, (JPA) Hibernate, JUnit, ThymeLeaf, 
+	  Tomcat, JVM, REST, HTML, HTML5, CSS, CSS3, Node.js, Ajax, API, JSON.</p>
 	</section>
 	<div id="line"></div>
 	<section id="work" class="projects-section">

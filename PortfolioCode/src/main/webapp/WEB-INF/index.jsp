@@ -77,17 +77,23 @@
 	<section id="work" class="projects-section">
 	  <h2 class="projects-section-header">Work</h2>
 	  <div class="projects-grid">
+	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
+	      <p class="project-title">Bitruism</p>
+	    </a>
+	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
+	      <p class="project-title">Cryptodea</p>
+	    </a>
 	    <a href="/javascript" target="_blank" class="project-4"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
-	      <p class="project-title">Tech Document Page</p>
+	      <p class="project-title">Tech Documentation</p>
 	    </a>
 	    <a href="/productpage" target="_blank" class="project-5"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610809-0d0b5d80-f74a-11e9-9cc1-0bb62375fd65.jpg"/>
-	      <p class="project-title">Product Landing Page</p>
+	      <p class="project-title">Product Landing</p>
 	    </a>
 	    <a href="/surveyform" target="_blank" class="project-6"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610862-58257080-f74a-11e9-8821-17196f6eb330.jpg"/>
 	      <p class="project-title">Survey Form</p>
 	    </a>
 	    <a href="/tribute" target="_blank" class="project-7"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg" />
-	      <p class="project-title">Tribute Page</p>
+	      <p class="project-title">Tribute</p>
 	    </a>
 	  </section>
 	    <div id="line2"></div>

@@ -77,17 +77,17 @@
 	<section id="work" class="projects-section">
 	  <h2 class="projects-section-header">Work</h2>
 	  <div class="projects-grid">
-	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
+	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101126124-ac3a8f80-35af-11eb-83bf-501593ae0554.jpg"/>
 	      <p class="project-title">Bitruism</p>
 	    </a>
-	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
+	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101126017-73021f80-35af-11eb-9f7a-5bba48bf2a8b.jpg"/>
 	      <p class="project-title">Cryptodea</p>
 	    </a>
 	    <a href="/javascript" target="_blank" class="project-4"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
-	      <p class="project-title">Tech Documentation</p>
+	      <p class="project-title">JavaScript Doc</p>
 	    </a>
 	    <a href="/productpage" target="_blank" class="project-5"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610809-0d0b5d80-f74a-11e9-9cc1-0bb62375fd65.jpg"/>
-	      <p class="project-title">Product Landing</p>
+	      <p class="project-title">Touch Pencils</p>
 	    </a>
 	    <a href="/surveyform" target="_blank" class="project-6"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610862-58257080-f74a-11e9-8821-17196f6eb330.jpg"/>
 	      <p class="project-title">Survey Form</p>

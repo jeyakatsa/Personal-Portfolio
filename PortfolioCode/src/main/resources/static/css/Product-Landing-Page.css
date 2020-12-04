@@ -245,7 +245,8 @@ h2 {
 @media screen and (max-width: 1000px) {
   h2 {
     margin-top: 70px;
-    font-size: 20pt;
+    font-size: 17pt;
+    margin-bottom: 25px;
   }
 }
 
@@ -266,7 +267,7 @@ h2 {
     font-size: 12pt;
     margin-left: 20%;
     margin-right: 20%;
-    line-height: 30px;
+    line-height: 25px;
   }
 }
 
@@ -296,6 +297,7 @@ h2 {
   max-width: 900px;
   height: 400px;
   width: 60%;
+  border-radius: 30px;
   box-shadow: 0px 10px 40px -15px black;
 }
 

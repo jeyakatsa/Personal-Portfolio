@@ -77,7 +77,7 @@
 	<section id="work" class="projects-section">
 	  <h2 class="projects-section-header">Work</h2>
 	  <div class="projects-grid">
-	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101126124-ac3a8f80-35af-11eb-83bf-501593ae0554.jpg"/>
+	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101238517-ac14bf80-3695-11eb-854d-c5b2b77795f3.jpg"/>
 	    </a>
 	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101126017-73021f80-35af-11eb-9f7a-5bba48bf2a8b.jpg"/>
 	    </a>

@@ -19,7 +19,7 @@
 		<link rel="icon" type="image/x-icon" href="/icons&images/Iconic.ico" sizes="156x156">
 		<link rel="canonical" href="https://jeremyakatsa.com/javascript">
 		
-		<meta property="og:image" content="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg">	
+		<meta property="og:image" content="/icons&images/Technical-Documentarion-Page(banner).jpg">	
 		<meta property="og:site_name" content="JavaScript Documentation">	
 		<meta property="og:type" content="object">				
 		<meta property="og:title" content="JavaScript Documentation">
@@ -30,7 +30,7 @@
 		<meta property="og:image:height" content="400">
 		
 		<meta name="twitter:title" content="JavaScript Documentation">
-		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg">
+		<meta name="twitter:image" content="/icons&images/Technical-Documentarion-Page(banner).jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com/javascript">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:description" content="JavaScript Documentation & Information">

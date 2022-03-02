@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="css/index.css">	
+		<link rel="stylesheet" type="text/css" href="css/Ethereum-CDAP.css">	
 			
 		<meta charset="UTF-8">
 		
@@ -19,7 +19,7 @@
 		<link rel="icon" type="image/x-icon" href="/icons&images/Iconic.ico" sizes="156x156">
 		<link rel="canonical" href="https://jeremyakatsa.com">
 		
-		<meta property="og:image" content="/icons&images/Portfolio(banner).jpg">	
+		<meta property="og:image" content="https://user-images.githubusercontent.com/51394348/100557204-6783c100-325c-11eb-84c6-c74963559591.jpg">	
 		<meta property="og:site_name" content="Jeremy Akatsa">	
 		<meta property="og:type" content="object">				
 		<meta property="og:title" content="Jeremy Akatsa">
@@ -30,7 +30,7 @@
 		<meta property="og:image:height" content="400">
 		
 		<meta name="twitter:title" content="Jeremy Akatsa: Software Developer">
-		<meta name="twitter:image" content="/icons&images/Portfolio(banner).jpg">
+		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/100557204-6783c100-325c-11eb-84c6-c74963559591.jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:description" content="Software Developer">
@@ -65,32 +65,31 @@
 	<br>
 	<section id="about" class="welcome-section">
 	  <h1>JA</h1>
-	  <h4 id="name">Jeremy Akatsa</h4>
- 	  <p id="describe">Software Developer</p>
+	  <p id="name">Jeremy Akatsa</p>
+ 	  <div id="describe">Software Engineer</div>
 	  <hr>
-	  <p id="description">Web3 Protocols & Web2 Applications </p>
+	  <p id="description">Java, Javascript, Spring Boot, MySQL, HTML, 
+	  CSS, AWS, Git, Github & Terminal, Responsive Web Design, Balsamiq, 
+	  Bootstrap, LESS & SASS, REST, Node.js, Ajax, API, JSON. </p>
 	</section>
 	<div id="line"></div>
 	<section id="work" class="projects-section">
 	  <h2 class="projects-section-header">Work</h2>
 	  <div class="projects-grid">
-	  	<a href="/ethereum-cdap" target="_blank" class="project-6"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
+	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101240094-e1270f00-36a1-11eb-85f2-ca05c0dcfdf8.jpg"/>
+	    </a>
+	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101126017-73021f80-35af-11eb-9f7a-5bba48bf2a8b.jpg"/>
+	    </a>
+	    <a href="/javascript" target="_blank" class="project-4"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
 
 	    </a>
-	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="/icons&images/Bitruism(banner).jpg"/>
-	    </a>
-	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="/icons&images/Cryptodea(banner).jpg"/>
-	    </a>
-	    <a href="/javascript" target="_blank" class="project-4"><img class="project-image" src="/icons&images/Technical-Documentarion-Page(banner).jpg"/>
+	    <a href="/productpage" target="_blank" class="project-5"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610809-0d0b5d80-f74a-11e9-9cc1-0bb62375fd65.jpg"/>
 
 	    </a>
-	    <a href="/productpage" target="_blank" class="project-5"><img class="project-image" src="/icons&images/Product-Landing-Page(banner).jpg"/>
+	    <a href="/surveyform" target="_blank" class="project-6"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610862-58257080-f74a-11e9-8821-17196f6eb330.jpg"/>
 
 	    </a>
-<!-- 	    <a href="/surveyform" target="_blank" class="project-6"><img class="project-image" src="/icons&images/Survey-Form(banner).jpg"/>
-
-	    </a> -->
-	    <a href="/tribute" target="_blank" class="project-7"><img class="project-image" src="/icons&images/Tribute-Page(banner).jpg" />
+	    <a href="/tribute" target="_blank" class="project-7"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg" />
 
 	    </a>
 	  </section>

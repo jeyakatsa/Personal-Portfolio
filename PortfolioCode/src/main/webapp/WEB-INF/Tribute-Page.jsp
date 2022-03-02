@@ -19,7 +19,7 @@
 		<link rel="icon" type="image/x-icon" href="/icons&images/Iconic.ico" sizes="156x156">
 		<link rel="canonical" href="https://jeremyakatsa.com/tribute">
 		
-		<meta property="og:image" content="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg">	
+		<meta property="og:image" content="/icons&images/Tribute-Page(banner).jpg">	
 		<meta property="og:site_name" content="Tribute">	
 		<meta property="og:type" content="object">				
 		<meta property="og:title" content="Tribute">
@@ -30,7 +30,7 @@
 		<meta property="og:image:height" content="400">
 		
 		<meta name="twitter:title" content="Tribute: Dedicated to MLK & JDR">
-		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg">
+		<meta name="twitter:image" content="/icons&images/Tribute-Page(banner).jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com/tribute">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:description" content="Dedicated to MLK & JDR">
@@ -48,7 +48,7 @@
 	      <div id="box-2">
 	        <div id="main">
 	          <div id="img-div">
-	      <img id="image" src="https://live.staticflickr.com/65535/48165544006_f0b40da1ac_o.jpg"/>
+	      <img id="image" src="/icons&images/My-Heroes.jpg"/>
 	      <p id="img-caption">Martin Luther King <span id="title-2">&</span> John D Rockefeller</p>
 	      <p id="tribute-info">Martin Luther King, Jr. was a civil rights activist in the 1950s and 1960s. He led non-violent protests to fight for the rights of all people including African Americans. He hoped that America and the world could become a colorblind society where race would not impact a person's civil rights. He is considered one of the great orators of modern times, and his speeches still inspire many to this day. Martin Luther King, Jr. was born in Atlanta, GA on January 15, 1929. He went to Booker T. Washington High School. He was so smart that he skipped two grades in high school. He started his college education at Morehouse College at the young age of fifteen. In his first major civil rights action, Martin Luther King, Jr. led the Montgomery Bus Boycott. This started when Rosa Parks refused to give up her seat on a bus to a white man. She was arrested and spent the night in jail. As a result, Martin helped to organize a boycott of the public transportation system in Montgomery. The boycott lasted for over a year. It was very tense at times. Martin was arrested and his house was bombed. In the end, however, Martin prevailed and segregation on the Montgomery buses came to an end. 
 	            </p>

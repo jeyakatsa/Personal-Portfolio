@@ -13,6 +13,11 @@ public class MainController {
 		return "index.jsp";
 	}
 	
+	@GetMapping("/ethereum-cdap")
+	public String Ethereum() {
+		return "Ethereum.jsp";
+	}
+	
 	@GetMapping("/javascript")
 	public String JavaScriptDoc() {
 		return "JavaScript-Doc-Page.jsp";
@@ -23,10 +28,10 @@ public class MainController {
 		return "Product-Landing-Page.jsp";
 	}
 	
-	@GetMapping("/surveyform")
-	public String SurveyForm() {
-		return "Survey-Form.jsp";
-	}
+//	@GetMapping("/surveyform")
+//	public String SurveyForm() {
+//		return "Survey-Form.jsp";
+//	}
 	
 	@GetMapping("/tribute")
 	public String TributePage() {

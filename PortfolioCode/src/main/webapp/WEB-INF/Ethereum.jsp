@@ -47,19 +47,46 @@
 	<br>
 	<section id="work" class="projects-section">
 	<h2 class="projects-section-header">Projects</h2>
-		<section class="project-2">
+		<section class="project-1">
+			<h3>Jehova: A Smart-Contract Language for Java Developers</h3>
+	  		<a href="https://bitruism.com" target="_blank">The Work
+	    	</a>
+	  		<a href="https://bitruism.com" target="_blank">The Research & Development Process
+	    	</a>	    				
 		</section>
 		<section class="project-2">
+			<h3>Smart-Contracts in Java</h3>
+	  		<a href="https://bitruism.com" target="_blank">The Proposal
+	    	</a>
+	  		<a href="https://bitruism.com" target="_blank">The Work
+	    	</a>	    	
+	  		<a href="https://bitruism.com" target="_blank">The Research & Development Process
+	    	</a>				
+			<p>forked up-to Jehova</p>		
 		</section>
-		<section class="project-2">
+		<section class="project-3">
+			<h3>New-ERC Token</h3>
+	  		<a href="https://bitruism.com" target="_blank">The Proposal
+	    	</a>
+	  		<a href="https://bitruism.com" target="_blank">The Research & Development Process
+	    	</a>		    	
+	  		<a href="https://bitruism.com" target="_blank">The Work
+	    	</a>	    				
+			<p>forked up-to Smart-Contracts in Java</p>		
 		</section>
-	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101240094-e1270f00-36a1-11eb-85f2-ca05c0dcfdf8.jpg"/>
-	    </a>
-	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101126017-73021f80-35af-11eb-9f7a-5bba48bf2a8b.jpg"/>
-	    </a>
+		<section class="project-4">
+			<h3>Altair - Minimal Light Client Prototype</h3>
+	  		<a href="https://bitruism.com" target="_blank">The Proposal
+	    	</a>
+	  		<a href="https://bitruism.com" target="_blank">The Research & Development Process
+	    	</a>		    	
+	  		<a href="https://bitruism.com" target="_blank">The Work
+	    	</a>				
+			<p>forked up-to New-ERC Token</p>		
+		</section>
 	 </section>
-	  
-	 <a href="https://bitruism.com" target="_blank" class="project-2">Daily Updates Throughout Program</a>
+	 <br>
+	 <a href="https://bitruism.com" target="_blank">Daily Updates Throughout Program</a>
 	  
 	</body>
 </html>

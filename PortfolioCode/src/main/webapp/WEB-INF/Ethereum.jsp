@@ -37,98 +37,29 @@
 		<meta name="description" content="Software Developer">
 <!-- Above information for social media sharing and search-engine/browser optimization -->	
 
-	<title>Jeremy Akatsa</title>
 </head>
 	<body>
-	
-	<header id="header">
-	  <a class="logo" href="#about"><p id="logon">JA</p><p id="logo">Jeremy Akatsa</p>
-	  </a>
-	  <nav id="nav-bar">
-	    <div id="ul">
-	      <a id="first-menu-icon" href="#about">About</a>
-	      <a id="first-menu-iconn" class="nav-link" href="#work">Work</a></span>
-	      <a id="first-menu-iconnn" class="nav-link" href="#contact">Contact</a>
-	    </div>
-	  </nav>
-	<div id="mobile-nav">
-	  <span id="menu-icons">
-	    <a href="#about">
-	      <i id="menu-icon-1" class="fas fa-user-circle"></i></a> 
-	    <a id="menu-icon-22" href="#work">
-	      <i id="menu-icon-2" class="fas fa-briefcase"></i></a> 
-	    <a id="menu-icon-33" href="#contact">
-	      <i id="menu-icon-3" class="fas fa-id-card"></i></a> 
-	    </span>
-	</div>
-	</header>
 	<br>
 	<section id="about" class="welcome-section">
-	  <h1>JA</h1>
-	  <p id="name">Jeremy Akatsa</p>
- 	  <div id="describe">Software Engineer</div>
-	  <hr>
-	  <p id="description">Java, Javascript, Spring Boot, MySQL, HTML, 
-	  CSS, AWS, Git, Github & Terminal, Responsive Web Design, Balsamiq, 
-	  Bootstrap, LESS & SASS, REST, Node.js, Ajax, API, JSON. </p>
+	  <h1>Ethereum Foundation</h1>
+	  <p id="name">Core Developer Apprentice Program</p>
 	</section>
-	<div id="line"></div>
+	<br>
 	<section id="work" class="projects-section">
-	  <h2 class="projects-section-header">Work</h2>
-	  <div class="projects-grid">
+	<h2 class="projects-section-header">Projects</h2>
+		<section class="project-2">
+		</section>
+		<section class="project-2">
+		</section>
+		<section class="project-2">
+		</section>
 	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101240094-e1270f00-36a1-11eb-85f2-ca05c0dcfdf8.jpg"/>
 	    </a>
 	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/101126017-73021f80-35af-11eb-9f7a-5bba48bf2a8b.jpg"/>
 	    </a>
-	    <a href="/javascript" target="_blank" class="project-4"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
-
-	    </a>
-	    <a href="/productpage" target="_blank" class="project-5"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610809-0d0b5d80-f74a-11e9-9cc1-0bb62375fd65.jpg"/>
-
-	    </a>
-	    <a href="/surveyform" target="_blank" class="project-6"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610862-58257080-f74a-11e9-8821-17196f6eb330.jpg"/>
-
-	    </a>
-	    <a href="/tribute" target="_blank" class="project-7"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg" />
-
-	    </a>
-	  </section>
-	    <div id="line2"></div>
-	  <section id="contact" class="contact-section">
-	    <link rel="stylesheet" type="text/css" href"style.css">
-	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"> 
-	  <div class="contact-section-header">
-	    <h2>Let's work together!</h2>
-	  </div>
-	  <div class="contact-links">    
-	    
-	    <a id="profile-linkr"
-	      id="profile-link"
-	   href="https://github.com/jeyakatsa"
-	      target="_blank"
-	      class="btn contact-details">
-	      <i id="contact-link" class="fab fa-github"></i> GitHub</a>    
-	    
-	    <a id="contact-linkk"href="mailto:jeyakatsa@gmail.com" class="btn contact-details">
-	      <i id="contact-link" id="contact-linkk" class="fas fa-envelope"></i> Email</a>
-	    
-	    <a id="contact-linkk" href="tel:281-687-1332" class="btn contact-details">
-	      <i id="contact-link" id="contact-linkk" class="fas fa-mobile"></i> Call/Text</a> 
-	    
-	    <a id="contact-linkk" id="profile-link" href="https://www.linkedin.com/in/jeremyakatsa/"
-	      target="_blank"
-	      class="btn contact-details">
-	      <i  id="contact-link"  class="fab fa-linkedin"></i> LinkedIn</a>
-	    
-	  </div>
-	</section>
+	 </section>
 	  
-	      <div id="line3"></div>
-	  <footer>
-	  <p id="footer">
-	    &copy; All Rights Reserved</a>
-	  </p>
-	</footer>
-	
+	 <a href="https://bitruism.com" target="_blank" class="project-2">Daily Updates Throughout Program</a>
+	  
 	</body>
 </html>

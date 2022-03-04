@@ -41,13 +41,13 @@
 </head>
 	<body>
 	
-	<header id="header">
+<!-- 	<header id="header">
 	  <a class="logo" href="#about"><p id="logon">JA</p><p id="logo">Jeremy Akatsa</p>
 	  </a>
 	  <nav id="nav-bar">
 	    <div id="ul">
 	      <a id="first-menu-icon" href="#about">About</a>
-	      <a id="first-menu-iconn" class="nav-link" href="#work">Work</a></span>
+	      <a id="first-menu-iconn" class="nav-link" href="#work">Work</a>
 	      <a id="first-menu-iconnn" class="nav-link" href="#contact">Contact</a>
 	    </div>
 	  </nav>
@@ -62,35 +62,33 @@
 	    </span>
 	</div>
 	</header>
-	<br>
+	<br> -->
 	<section id="about" class="welcome-section">
-	  <h1>JA</h1>
-	  <h4 id="name">Jeremy Akatsa</h4>
+	  <h1><a id="work" href="#projects">JA</a></h1>
+	  <h4 id="name"><a id="work" href="#projects">Jeremy Akatsa</a></h4>
  	  <p id="describe">Software Developer</p>
 	  <hr>
 	  <p id="description">Web3 Protocols & Web2 Applications </p>
 	</section>
 	<div id="line"></div>
-	<section id="work" class="projects-section">
-	  <h2 class="projects-section-header">Work</h2>
+	<section id="projects" class="projects-section">
+	  <h2 class="projects-section-header">Projects</h2>
 	  <div class="projects-grid">
-	  	<a href="/ethereum-cdap" target="_blank" class="project-6"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
+	  	<a href="/ethereum-cdap" target="_self" class="project-1"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
 
 	    </a>
 	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="/icons&images/Bitruism(banner).jpg"/>
 	    </a>
 	     <a href="https://cryptodea.com" target="_blank" class="project-3"><img class="project-image" src="/icons&images/Cryptodea(banner).jpg"/>
 	    </a>
-	    <a href="/javascript" target="_blank" class="project-4"><img class="project-image" src="/icons&images/Technical-Documentarion-Page(banner).jpg"/>
-
+	    <a href="/productpage" target="_self" class="project-5"><img class="project-image" src="/icons&images/Product-Landing-Page(banner).jpg"/>
 	    </a>
-	    <a href="/productpage" target="_blank" class="project-5"><img class="project-image" src="/icons&images/Product-Landing-Page(banner).jpg"/>
-
-	    </a>
+	    <a href="/javascript" target="_self" class="project-4"><img class="project-image" src="/icons&images/Technical-Documentation-Page(banner).jpg"/>
+	    </a>	    
 <!-- 	    <a href="/surveyform" target="_blank" class="project-6"><img class="project-image" src="/icons&images/Survey-Form(banner).jpg"/>
 
 	    </a> -->
-	    <a href="/tribute" target="_blank" class="project-7"><img class="project-image" src="/icons&images/Tribute-Page(banner).jpg" />
+	    <a href="/tribute" target="_self" class="project-7"><img class="project-image" src="/icons&images/Tribute-Page(banner).jpg" />
 
 	    </a>
 	  </section>

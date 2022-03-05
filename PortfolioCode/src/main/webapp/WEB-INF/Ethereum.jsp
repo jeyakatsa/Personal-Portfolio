@@ -48,15 +48,14 @@
 	<section id="work" class="projects-section">
 	<h2 class="projects-section-header">Projects</h2>
 		<section class="project-1">
-			<h3>Jehova: A Smart-Contract Language for Java Developers</h3>	   				
+			<h3>Jehova: A Smart-Contract Language for Java</h3>	   				
 		</section>
 			<section class="project-11">
 		  		<a href="https://bitruism.com" target="_blank">Development
 		    	</a>
 		    	<br>
 		  		<a href="https://bitruism.com" target="_blank">Research
-		    	</a>	   
-		    	<p></p> 				
+		    	</a>	   				
 			</section>		
 		<section class="project-2">
 			<h3>Smart-Contracts in Java</h3>
@@ -68,7 +67,6 @@
 	    	<br>	    	
 	  		<a href="https://bitruism.com" target="_blank">Research
 	    	</a>				
-			<p></p>		
 		</section>
 		<section class="project-3">
 			<h3>New-ERC Token</h3>
@@ -79,8 +77,7 @@
 	    	</a>
 	    	<br>		    	
 	  		<a href="https://bitruism.com" target="_blank">Development
-	    	</a>	    				
-			<p></p>		
+	    	</a>	    					
 		</section>
 		<section class="project-4">
 			<h3>Altair - Minimal Light Client Prototype</h3>
@@ -91,8 +88,7 @@
 	    	</a>
 	    	<br>    	
 	  		<a href="https://bitruism.com" target="_blank">Development
-	    	</a>				
-			<p></p>		
+	    	</a>					
 		</section>
 	 </section>
 	 <br>

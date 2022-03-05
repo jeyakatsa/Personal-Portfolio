@@ -40,59 +40,63 @@
 </head>
 	<body>
 	<br>
-		<img class="project-image" src="/icons&images/eth-diamond-rainbow.png"/>
+	<a href="https://bitruism.com"><img class="project-image" src="/icons&images/eth-diamond-rainbow.png"/></a>
 	<section id="about" class="welcome-section">
-	  <h1>Ethereum Foundation</h1>
-	  <p id="name">Core Developer Apprentice Program</p>
+	  <a id="title" href="https://bitruism.com">Ethereum Foundation</a>
+	  <a id="name" href="https://bitruism.com">Core Developer Apprentice Program</a>
 	</section>
 	<section id="work" class="projects-section">
 	<h2 class="projects-section-header">Projects</h2>
 		<section class="project-1">
-			<h3>Jehova: A Smart-Contract Language for Java</h3>	   				
+			<h3 id="Jehova">Jehova: A Smart-Contract Language for Java</h3>	   				
 		</section>
 			<section class="project-11">
-		  		<a href="https://bitruism.com" target="_blank">Development
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Development
 		    	</a>
 		    	<br>
-		  		<a href="https://bitruism.com" target="_blank">Research
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Research
 		    	</a>	   				
 			</section>		
 		<section class="project-2">
-			<h3>Smart-Contracts in Java</h3>
-	  		<a href="https://bitruism.com" target="_blank">Proposal
-	    	</a>
-	    	<br>
-	  		<a href="https://bitruism.com" target="_blank">Development
-	    	</a>
-	    	<br>	    	
-	  		<a href="https://bitruism.com" target="_blank">Research
-	    	</a>				
+			<h3 id="SCJ">Smart-Contracts in Java</h3>			
 		</section>
+			<section class="project-22">
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Proposal
+		    	</a>
+		    	<br>
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Development
+		    	</a>
+		    	<br>	    	
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Research
+		    	</a>				
+			</section>
 		<section class="project-3">
-			<h3>New-ERC Token</h3>
-	  		<a href="https://bitruism.com" target="_blank">Proposal
-	    	</a>
-	    	<br>
-	  		<a href="https://bitruism.com" target="_blank">Research
-	    	</a>
-	    	<br>		    	
-	  		<a href="https://bitruism.com" target="_blank">Development
-	    	</a>	    					
+			<h3 id="ERC">New-ERC Token</h3>    					
 		</section>
+			<section class="project-33">
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Proposal
+		    	</a>
+		    	<br>
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Research
+		    	</a>
+		    	<br>	    	
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Development
+		    	</a>				
+			</section>
 		<section class="project-4">
-			<h3>Altair - Minimal Light Client Prototype</h3>
-	  		<a href="https://bitruism.com" target="_blank">Proposal
-	    	</a>
-	    	<br>
-	  		<a href="https://bitruism.com" target="_blank">Research
-	    	</a>
-	    	<br>    	
-	  		<a href="https://bitruism.com" target="_blank">Development
-	    	</a>					
+			<h3 id="Altair">Altair - Minimal Light Client Prototype</h3>    					
 		</section>
+			<section class="project-44">
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Proposal
+		    	</a>
+		    	<br>
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Research
+		    	</a>
+		    	<br>	    	
+		  		<a id="RD" href="https://bitruism.com" target="_blank">Development
+		    	</a>				
+			</section>
 	 </section>
-	 <br>
-	 <a href="https://bitruism.com" target="_blank">Daily Updates Throughout Program</a>
 	  
 	</body>
 </html>

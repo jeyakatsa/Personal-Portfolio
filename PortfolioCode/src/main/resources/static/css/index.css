@@ -266,11 +266,11 @@ h1 {
   z-index: 3;
 }
 
-#work {
+.work {
   color: #404040;	
 }
 
-#work:hover {
+.work:hover {
   color: black; 
   transition: color 1s;
 }
@@ -278,7 +278,7 @@ h1 {
 #name {
   font-size: 25pt;
   font-weight: 900;
-  opacity: .7;
+  opacity: .8;
   margin-top: -100px;
   letter-spacing: -2px;
   z-index: 3;
@@ -338,8 +338,6 @@ h1 {
 }
 
 #name {
-  font-size: 25pt;
-  font-weight: 900;
   margin-top: -45px;
 }
 

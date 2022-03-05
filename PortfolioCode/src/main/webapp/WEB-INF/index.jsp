@@ -64,15 +64,15 @@
 	</header>
 	<br> -->
 	<section id="about" class="welcome-section">
-	  <h1><a id="work" href="#projects">JA</a></h1>
-	  <h4 id="name"><a id="work" href="#projects">Jeremy Akatsa</a></h4>
+	  <h1><a class="work" href="#work">JA</a></h1>
+	  <h4 id="name"><a class="work" href="#work">Jeremy Akatsa</a></h4>
  	  <p id="describe">Software Developer</p>
 	  <hr>
 	  <p id="description">Web3 Protocols & Web2 Applications </p>
 	</section>
 	<div id="line"></div>
-	<section id="projects" class="projects-section">
-	  <h2 class="projects-section-header">Projects</h2>
+	<section id="work" class="projects-section">
+	  <h2 class="projects-section-header">Work</h2>
 	  <div class="projects-grid">
 	  	<a href="/ethereum-cdap" target="_self" class="project-1"><img class="project-image" src="https://user-images.githubusercontent.com/51394348/67610845-3a580b80-f74a-11e9-8a86-437260c338fa.jpg"/>
 

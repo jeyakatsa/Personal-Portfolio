@@ -1,7 +1,7 @@
 html,
 body {
   text-align: center;
-  font-family: 'MyWebFont', Bahnschrift, sans-serif;
+  font-family: Arial;
   margin-left: 0%;
   margin-right: 0%;
   background-color: white;
@@ -56,6 +56,7 @@ h1 {
 
 
 @media screen and (max-width: 950px) and (-webkit-min-device-pixel-ratio:0) {
+
 	h1 {
 	  font-size: 23pt;
 	  letter-spacing: -1px;  
@@ -63,8 +64,9 @@ h1 {
 	
 	#name {
 	  font-size: 12pt;
-	  font-weight: 900;
 	  margin-top: -35px;
+	  margin-bottom: 30px;
+	  font-weight: 900;
 	  letter-spacing: 1px;
 	}
 }
@@ -76,10 +78,16 @@ h1 {
   background-color: white;
 }
 
+.project-image {
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .projects-section-header {
   max-width: 640px;
   margin: 0 auto;
-  margin-top: 30px;
+  margin-top: 10px;
   margin-bottom: 10px;
   font-weight: 900;
   color: #247c76;

@@ -40,12 +40,11 @@
 </head>
 	<body>
 	<br>
+		<img class="project-image" src="/icons&images/eth-diamond-rainbow.png"/>
 	<section id="about" class="welcome-section">
 	  <h1>Ethereum Foundation</h1>
 	  <p id="name">Core Developer Apprentice Program</p>
 	</section>
-	<img class="project-image" src="/icons&images/Bitruism(banner).jpg"/>
-	<br>
 	<section id="work" class="projects-section">
 	<h2 class="projects-section-header">Projects</h2>
 		<section class="project-1">
@@ -69,7 +68,7 @@
 	    	<br>	    	
 	  		<a href="https://bitruism.com" target="_blank">Research
 	    	</a>				
-			<p>forked up-to Jehova</p>		
+			<p></p>		
 		</section>
 		<section class="project-3">
 			<h3>New-ERC Token</h3>
@@ -81,7 +80,7 @@
 	    	<br>		    	
 	  		<a href="https://bitruism.com" target="_blank">Development
 	    	</a>	    				
-			<p>forked up-to Smart-Contracts in Java</p>		
+			<p></p>		
 		</section>
 		<section class="project-4">
 			<h3>Altair - Minimal Light Client Prototype</h3>
@@ -93,7 +92,7 @@
 	    	<br>    	
 	  		<a href="https://bitruism.com" target="_blank">Development
 	    	</a>				
-			<p>forked up-to New-ERC Token</p>		
+			<p></p>		
 		</section>
 	 </section>
 	 <br>

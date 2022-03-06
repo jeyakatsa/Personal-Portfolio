@@ -13,7 +13,7 @@ public class MainController {
 		return "index.jsp";
 	}
 	
-	@GetMapping("/ethereum-cdap")
+	@GetMapping("/ethereum")
 	public String Ethereum() {
 		return "Ethereum.jsp";
 	}

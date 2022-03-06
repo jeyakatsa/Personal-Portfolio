@@ -74,7 +74,7 @@
 	<section id="work" class="projects-section">
 	  <h2 class="projects-section-header">Work</h2>
 	  <div class="projects-grid">
-	  	<a href="/ethereum-cdap" target="_self" class="project-1"><img class="project-image" src="/icons&images/EthCDAP(banner).jpg"/>
+	  	<a href="/ethereum" target="_self" class="project-1"><img class="project-image" src="/icons&images/EthCDAP(banner).jpg"/>
 	    </a>
 	  	<a href="https://bitruism.com" target="_blank" class="project-2"><img class="project-image" src="/icons&images/Bitruism(banner).jpg"/>
 	    </a>

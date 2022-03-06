@@ -10,7 +10,7 @@
 		
 <!-- Below information for social media sharing and search-engine/browser optimization -->		
 		<meta name="title" content="Jeremy Akatsa">
-		<meta name="description" content="Ethereum Foundation CDAP work">
+		<meta name="description" content="Ethereum work">
 		<meta name="google" content="nositelinkssearchbox">
 		<meta name="keywords" content="Jeremy Akatsa, Akatsa">
 		<meta name="author" content="Jeremy Akatsa">
@@ -23,18 +23,18 @@
 		<meta property="og:site_name" content="Jeremy Akatsa">	
 		<meta property="og:type" content="object">				
 		<meta property="og:title" content="Jeremy Akatsa">
-		<meta propety="og:url" content="https://jeremyakatsa.com/ethereum-cdap">
-		<meta property="og:description" content="Ethereum Foundation CDAP work">
+		<meta propety="og:url" content="https://jeremyakatsa.com/ethereum">
+		<meta property="og:description" content="Ethereum work">
 		<meta property="og:image:type" content="image/jpg">
 		<meta property="og:image:width" content="700">
 		<meta property="og:image:height" content="400">
 		
 		<meta name="twitter:title" content="Jeremy Akatsa: Software Developer">
 		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/156908434-c7238bee-74f8-47df-b15e-17e8c70eb79b.jpg">
-		<meta name="twitter:url" content="https://jeremyakatsa.com/ethereum-cdap">
+		<meta name="twitter:url" content="https://jeremyakatsa.com/ethereum">
 		<meta name="twitter:card" content="summary">
-		<meta name="twitter:description" content="Ethereum Foundation CDAP work">
-		<meta name="description" content="Ethereum Foundation CDAP work">
+		<meta name="twitter:description" content="Ethereum work">
+		<meta name="description" content="Ethereum work">
 <!-- Above information for social media sharing and search-engine/browser optimization -->	
 
 </head>

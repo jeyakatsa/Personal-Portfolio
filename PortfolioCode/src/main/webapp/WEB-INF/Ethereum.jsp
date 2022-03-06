@@ -44,12 +44,12 @@
 		<img class="project-image" src="/icons&images/eth-diamond-rainbow.png"/>
 	</a>
 	<section id="about" class="welcome-section">
-	  <a id="title" href="https://github.com/ethereum-cdap/cohort-one/tree/master/notes/jeremyakatsa">
-	  Ethereum Foundation
-	  </a>
-	  <a id="name" href="https://github.com/ethereum-cdap/cohort-one/tree/master/notes/jeremyakatsa">
-	  Core Developer Apprentice Program
-	  </a>
+		  <a id="title" href="https://github.com/ethereum-cdap/cohort-one/tree/master/notes/jeremyakatsa">
+		  Ethereum Foundation
+		  </a>
+		  <a id="name" href="https://github.com/ethereum-cdap/cohort-one/tree/master/notes/jeremyakatsa">
+		  Core Developer Apprentice Program
+		  </a>
 	</section>
 	<section id="work" class="projects-section">
 	<h2 class="projects-section-header">Projects</h2>
@@ -114,6 +114,8 @@
 		    	</a>
 			</section>
 	 </section>
-	  
+	 <footer>
+	 	 <a id="pt" href="/">Portfolio</a>
+	 </footer>
 	</body>
 </html>

@@ -21,6 +21,12 @@ body {
 }
 
 
+.project-image {
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 
 .welcome-section {
@@ -54,6 +60,13 @@ body {
   text-decoration: none;
 }
 
+#title:hover, #name:hover {
+  	opacity: .5;
+}
+#title:hover, #name :focus {
+  	opacity: .5;
+}
+
 
 @media screen and (max-width: 950px) and (-webkit-min-device-pixel-ratio:0) {
 
@@ -80,11 +93,6 @@ body {
   background-color: white;
 }
 
-.project-image {
-  width: 50px;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 .projects-section-header {
   max-width: 640px;
@@ -138,6 +146,7 @@ h3 {
 .project-11 {
   background: #478447;
   border: solid 30px #478447;
+      box-shadow: 0px 10px 30px 0px black;
   z-index: 1;
 }
 
@@ -150,6 +159,7 @@ h3 {
 .project-22 {
   background: #7f447f;
   border: solid 30px #7f447f;
+      box-shadow: 0px 10px 30px 0px black;
   z-index: 1;
 }
 
@@ -162,6 +172,7 @@ h3 {
 .project-33 {
   background: #817b42;
   border: solid 30px #817b42;
+      box-shadow: 0px 10px 30px 0px black;
   z-index: 1;
 }
 
@@ -174,15 +185,33 @@ h3 {
 .project-44 {
   background: #86485b;
   border: solid 30px #86485b;
+  box-shadow: 0px 10px 30px 0px black;
   z-index: 1;
 }
 
+footer{
+	padding: 70px;
+	background-color: gray;
+}
+#pt {
+	font-size: 20pt;
+  	color: white;
+  	opacity: .7;
+  	font-weight: 700;
+  	text-decoration: none;
+  	letter-spacing: -1px;
+}
+#pt:hover {
+  	opacity: .5;
+}
+#pt:focus {
+  	opacity: .5;
+}
 
 @media screen and (max-width: 950px) and (-webkit-min-device-pixel-ratio:0) {
   .projects-section-header {
+  	margin-top: 25px;
     font-size: 15pt;
-    margin-top: 10px;
-    margin-bottom: 20px;
   }
   
 	h3 {
@@ -190,19 +219,17 @@ h3 {
 	}
 	
 	#RD {
-	font-size: 20pt;
+		font-size: 20pt;
 		line-height: 40px;
+	}
+	footer {
+		padding: 50px;
+	}
+	
+	#pt {
+	font-size: 15pt;
+	}	
 }
-  
-}
-
-
-#updates {
-	font-size: 25pt;
-  	color: #1b5f5a;
-}
-
-
 
 
 @font-face {

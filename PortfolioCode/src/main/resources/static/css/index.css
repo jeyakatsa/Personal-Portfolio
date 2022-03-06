@@ -317,7 +317,6 @@ hr {
   margin-bottom: 100px;
   margin-left: 25%;
   margin-right: 25%;
-  letter-spacing: 2px;
   opacity: .6;
   font-weight: 800;
   z-index: 2;
@@ -362,10 +361,9 @@ h1 {
   }
   
   #description {
-    font-size: 8pt;
+    font-size: 9pt;
     margin-top: 20px;
     margin-bottom: -70px;
-    letter-spacing: .5px;
   }
  
 #line {
@@ -484,96 +482,110 @@ h1 {
   opacity: .5;
   transition: 1s;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-1:hover {
   opacity: .5;
   transition: 1s;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-2:hover {
   opacity: .5;
   transition: 1s;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-3:hover {
   opacity: .5;
   transition: 1s;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-4:hover {
   opacity: .5;
   transition: 1s;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-5:hover {
   opacity: .5;
   transition: 1s;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-6:hover {
   opacity: .5;
   transition: 1s;
   box-shadow: none;
+      border-radius: 0px;
 }
 
 .project-7:hover {
   opacity: .5;
   transition: 1s;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project:focus {
   opacity: .5;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-1:focus {
   opacity: .5;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-2:focus {
   opacity: .5;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-3:focus {
   opacity: .5;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-4:focus {
   opacity: .5;
   box-shadow: none;
+    border-radius: 0x;
 }
 
 .project-5:focus {
   opacity: .5;
   box-shadow: none;
+    border-radius: 0px;
 }
 
 .project-6:focus {
   opacity: .5;
   box-shadow: none;
+      border-radius: 0px;
 }
 
 .project-7:focus {
   opacity: .5;
   box-shadow: none;
+      border-radius: 0px;
 }
 
 .project-image {
-  height: calc(100%);
   width: 100%;
   object-fit: cover;
   box-shadow: 0px 10px 30px -20px black;
-  border-radius: 20px;
 }
 
 .project-title {

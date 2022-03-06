@@ -19,7 +19,7 @@
 		<link rel="icon" type="image/x-icon" href="/icons&images/Iconic.ico" sizes="156x156">
 		<link rel="canonical" href="https://jeremyakatsa.com">
 		
-		<meta property="og:image" content="/icons&images/EthCDAP(banner).jpg">	
+		<meta property="og:image" content="https://user-images.githubusercontent.com/51394348/156908434-c7238bee-74f8-47df-b15e-17e8c70eb79b.jpg">	
 		<meta property="og:site_name" content="Jeremy Akatsa">	
 		<meta property="og:type" content="object">				
 		<meta property="og:title" content="Jeremy Akatsa">
@@ -30,7 +30,7 @@
 		<meta property="og:image:height" content="400">
 		
 		<meta name="twitter:title" content="Jeremy Akatsa: Software Developer">
-		<meta name="twitter:image" content="/icons&images/EthCDAP(banner).jpg">
+		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/156908434-c7238bee-74f8-47df-b15e-17e8c70eb79b.jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com/ethereum-cdap">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:description" content="Ethereum Foundation CDAP work">

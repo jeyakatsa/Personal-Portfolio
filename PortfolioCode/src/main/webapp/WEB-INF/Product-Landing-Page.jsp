@@ -19,7 +19,7 @@
 		<link rel="icon" type="image/x-icon" href="/icons&images/Iconic.ico" sizes="156x156">
 		<link rel="canonical" href="https://jeremyakatsa.com/productpage">
 		
-		<meta property="og:image" content="/icons&images/Product-Landing-Page(banner).jpg">	
+		<meta property="og:image" content="https://user-images.githubusercontent.com/51394348/67610809-0d0b5d80-f74a-11e9-9cc1-0bb62375fd65.jpg">	
 		<meta property="og:site_name" content="Product Page">	
 		<meta property="og:type" content="object">				
 		<meta property="og:title" content="Product Page">
@@ -30,7 +30,7 @@
 		<meta property="og:image:height" content="400">
 		
 		<meta name="twitter:title" content="Product Page">
-		<meta name="twitter:image" content="/icons&images/Product-Landing-Page(banner).jpg">
+		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/67610809-0d0b5d80-f74a-11e9-9cc1-0bb62375fd65.jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com/productpage">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:description" content="Product Landing Page">

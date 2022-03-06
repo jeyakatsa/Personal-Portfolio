@@ -19,7 +19,7 @@
 		<link rel="icon" type="image/x-icon" href="/icons&images/Iconic.ico" sizes="156x156">
 		<link rel="canonical" href="https://jeremyakatsa.com/tribute">
 		
-		<meta property="og:image" content="/icons&images/Tribute-Page(banner).jpg">	
+		<meta property="og:image" content="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg">	
 		<meta property="og:site_name" content="Tribute">	
 		<meta property="og:type" content="object">				
 		<meta property="og:title" content="Tribute">
@@ -30,7 +30,7 @@
 		<meta property="og:image:height" content="400">
 		
 		<meta name="twitter:title" content="Tribute: Dedicated to MLK & JDR">
-		<meta name="twitter:image" content="/icons&images/Tribute-Page(banner).jpg">
+		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/67610881-81de9780-f74a-11e9-9e98-845b00e7d15e.jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com/tribute">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:description" content="Dedicated to MLK & JDR">

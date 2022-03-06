@@ -101,28 +101,30 @@ body {
 h3 {
 	font-size: 15pt;
 	font-weight: 700;
+	color: white;
+	opacity: .5;
 }
-#Jehova {
+/* #Jehova {
 	color: #88ff88;
 }
 #SCJ{
-	color: #ff88ff;	
+	color: #fd23fd;	
 }
 #ERC{
-	color: #ffdfa1;
+	color: #ffea00;
 }
 #Altair{
 	color: #ff9db3;
-}
+} */
 
 #RD {
 	color: white;
 	font-size: 25pt;
 	font-weight: 700;
+	line-height: 55px;
 	opacity: .7;
 	text-decoration: none;
 	letter-spacing: -2px;
-	line-height: 50px;
 }
 #RD:hover {
 	opacity: 1;
@@ -134,8 +136,8 @@ h3 {
   z-index: 3;
 }
 .project-11 {
-  background: #5d8d5d;
-  border: solid 30px #5d8d5d;
+  background: #478447;
+  border: solid 30px #478447;
   z-index: 1;
 }
 
@@ -146,32 +148,32 @@ h3 {
   z-index: 3;
 }
 .project-22 {
-  background: #7e517e;
-  border: solid 30px #7e517e;
+  background: #7f447f;
+  border: solid 30px #7f447f;
   z-index: 1;
 }
 
 .project-3 {
-  background: #e69700;
-  border: solid 20px #e69700;
+  background: #837900;
+  border: solid 20px #837900;
   box-shadow: 0px 20px 35px 0px black;
   z-index: 3;
 }
 .project-33 {
-  background: #866f43;
-  border: solid 30px #866f43;
+  background: #817b42;
+  border: solid 30px #817b42;
   z-index: 1;
 }
 
 .project-4 {
-  background: #ff003b;
-  border: solid 20px #ff003b;
+  background: #89012c;
+  border: solid 20px #89012c;
   box-shadow: 0px 10px 30px 0px black;
   z-index: 3;
 }
 .project-44 {
-  background: #813d4d;
-  border: solid 30px #813d4d;
+  background: #86485b;
+  border: solid 30px #86485b;
   z-index: 1;
 }
 
@@ -186,6 +188,11 @@ h3 {
 	h3 {
 		font-size: 11pt;
 	}
+	
+	#RD {
+	font-size: 20pt;
+		line-height: 40px;
+}
   
 }
 

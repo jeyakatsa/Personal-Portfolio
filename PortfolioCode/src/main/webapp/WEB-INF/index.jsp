@@ -19,7 +19,7 @@
 		<link rel="icon" type="image/x-icon" href="/icons&images/Iconic.ico" sizes="156x156">
 		<link rel="canonical" href="https://jeremyakatsa.com">
 		
-		<meta property="og:image" content="/icons&images/Portfolio(banner).jpg">	
+		<meta property="og:image" content="https://user-images.githubusercontent.com/51394348/100557204-6783c100-325c-11eb-84c6-c74963559591.jpg">	
 		<meta property="og:site_name" content="Jeremy Akatsa">	
 		<meta property="og:type" content="object">				
 		<meta property="og:title" content="Jeremy Akatsa">
@@ -30,7 +30,7 @@
 		<meta property="og:image:height" content="400">
 		
 		<meta name="twitter:title" content="Jeremy Akatsa: Software Developer">
-		<meta name="twitter:image" content="/icons&images/Portfolio(banner).jpg">
+		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/100557204-6783c100-325c-11eb-84c6-c74963559591.jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:description" content="Software Developer">
@@ -68,7 +68,7 @@
 	  <h4 id="name"><a class="work" href="#work">Jeremy Akatsa</a></h4>
  	  <p id="describe">Software Developer</p>
 	  <hr>
-	  <p id="description">Web3 Protocols & Web2 Applications </p>
+	  <p id="description">Web3 Protocols & Web2 Apps </p>
 	</section>
 	<div id="line"></div>
 	<section id="work" class="projects-section">

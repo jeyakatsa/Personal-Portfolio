@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="css/index.css">	
+		<link rel="stylesheet" type="text/css" href="css/chrome-index.css">	
 			
 		<meta charset="UTF-8">
 		

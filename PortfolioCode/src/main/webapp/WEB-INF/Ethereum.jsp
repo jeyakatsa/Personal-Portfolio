@@ -32,10 +32,12 @@
 		<meta name="twitter:title" content="Jeremy Akatsa: Software Developer">
 		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/156908434-c7238bee-74f8-47df-b15e-17e8c70eb79b.jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com/ethereum">
-		<meta name="twitter:card" content="summary">
+		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:description" content="Ethereum work">
 		<meta name="description" content="Ethereum work">
 <!-- Above information for social media sharing and search-engine/browser optimization -->	
+
+	<title>Ethereum</title>
 
 </head>
 	<body>

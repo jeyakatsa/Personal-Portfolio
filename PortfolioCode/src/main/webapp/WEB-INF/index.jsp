@@ -32,7 +32,7 @@
 		<meta name="twitter:title" content="Jeremy Akatsa: Software Developer">
 		<meta name="twitter:image" content="https://user-images.githubusercontent.com/51394348/100557204-6783c100-325c-11eb-84c6-c74963559591.jpg">
 		<meta name="twitter:url" content="https://jeremyakatsa.com">
-		<meta name="twitter:card" content="summary">
+		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:description" content="Software Developer">
 		<meta name="description" content="Software Developer">
 <!-- Above information for social media sharing and search-engine/browser optimization -->	
@@ -41,31 +41,9 @@
 </head>
 	<body>
 	
-<!-- 	<header id="header">
-	  <a class="logo" href="#about"><p id="logon">JA</p><p id="logo">Jeremy Akatsa</p>
-	  </a>
-	  <nav id="nav-bar">
-	    <div id="ul">
-	      <a id="first-menu-icon" href="#about">About</a>
-	      <a id="first-menu-iconn" class="nav-link" href="#work">Work</a>
-	      <a id="first-menu-iconnn" class="nav-link" href="#contact">Contact</a>
-	    </div>
-	  </nav>
-	<div id="mobile-nav">
-	  <span id="menu-icons">
-	    <a href="#about">
-	      <i id="menu-icon-1" class="fas fa-user-circle"></i></a> 
-	    <a id="menu-icon-22" href="#work">
-	      <i id="menu-icon-2" class="fas fa-briefcase"></i></a> 
-	    <a id="menu-icon-33" href="#contact">
-	      <i id="menu-icon-3" class="fas fa-id-card"></i></a> 
-	    </span>
-	</div>
-	</header>
-	<br> -->
 	<section id="about" class="welcome-section">
-	  <h1><a class="work" href="#work">JA</a></h1>
-	  <h4 id="name"><a class="work" href="#work">Jeremy Akatsa</a></h4>
+	  <a id="h1" href="#work">JA</a>
+	  <a id="name" href="#work">Jeremy Akatsa</a>
  	  <p id="describe">Software Developer</p>
 	  <hr>
 	  <p id="description">Web3 Protocols & Web2 Apps </p>
@@ -84,39 +62,34 @@
 	    </a>
 	    <a href="/javascript" target="_self" class="project-4"><img class="project-image" src="/icons&images/Technical-Documentation-Page(banner).jpg"/>
 	    </a>	    
-<!-- 	    <a href="/surveyform" target="_blank" class="project-6"><img class="project-image" src="/icons&images/Survey-Form(banner).jpg"/>
-
-	    </a> -->
 	    <a href="/tribute" target="_self" class="project-7"><img class="project-image" src="/icons&images/Tribute-Page(banner).jpg" />
-
 	    </a>
+	   </div>
 	  </section>
 	    <div id="line2"></div>
-	  <section id="contact" class="contact-section">
-	    <link rel="stylesheet" type="text/css" href"style.css">
-	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"> 
+	  <section id="contact" class="contact-section"> 
 	  <div class="contact-section-header">
 	    <h2>Let's work together!</h2>
 	  </div>
 	  <div class="contact-links">    
 	    
-	    <a id="profile-linkr"
-	      id="profile-link"
+	    <a id="contact-linkk"
 	   href="https://github.com/jeyakatsa"
 	      target="_blank"
-	      class="btn contact-details">
-	      <i id="contact-link" class="fab fa-github"></i> GitHub</a>    
+	      class="btn contact-details"> GitHub</a>    
 	    
-	    <a id="contact-linkk"href="mailto:jeyakatsa@gmail.com" class="btn contact-details">
-	      <i id="contact-link" id="contact-linkk" class="fas fa-envelope"></i> Email</a>
+	    <a id="contact-linkk"
+	    href="mailto:jeyakatsa@gmail.com" 
+	    class="btn contact-details"> Email</a>
 	    
-	    <a id="contact-linkk" href="tel:281-687-1332" class="btn contact-details">
-	      <i id="contact-link" id="contact-linkk" class="fas fa-mobile"></i> Call/Text</a> 
+	    <a id="contact-linkk" 
+	    href="tel:281-687-1332" 
+	    class="btn contact-details">Call/Text</a> 
 	    
-	    <a id="contact-linkk" id="profile-link" href="https://www.linkedin.com/in/jeremyakatsa/"
-	      target="_blank"
-	      class="btn contact-details">
-	      <i  id="contact-link"  class="fab fa-linkedin"></i> LinkedIn</a>
+	    <a id="contact-linkk" 
+	    href="https://www.linkedin.com/in/jeremyakatsa/"
+	      target="_blank" 
+	      class="btn contact-details">LinkedIn</a>
 	    
 	  </div>
 	</section>
@@ -124,7 +97,7 @@
 	      <div id="line3"></div>
 	  <footer>
 	  <p id="footer">
-	    &copy; All Rights Reserved</a>
+	    &copy; All Rights Reserved
 	  </p>
 	</footer>
 	

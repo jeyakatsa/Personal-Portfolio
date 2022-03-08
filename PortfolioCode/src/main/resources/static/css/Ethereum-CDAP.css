@@ -8,13 +8,13 @@ body {
   margin-bottom: 0%;
 }
 
-@media screen and (max-width: 950px) and (-webkit-min-device-pixel-ratio:0) {
+@media screen and (max-width: 950px) {
   body {
     -webkit-text-size-adjust: none;
   }
 }
 
-@media screen and (max-width: 550px) and (-webkit-min-device-pixel-ratio:0) {
+@media screen and (max-width: 550px) {
   body {
     -webkit-text-size-adjust: none;
   }
@@ -68,7 +68,7 @@ body {
 }
 
 
-@media screen and (max-width: 950px) and (-webkit-min-device-pixel-ratio:0) {
+@media screen and (max-width: 950px){
 
 	.welcome-section {
 	  height: 50px;
@@ -208,7 +208,7 @@ footer{
   	opacity: .5;
 }
 
-@media screen and (max-width: 950px) and (-webkit-min-device-pixel-ratio:0) {
+@media screen and (max-width: 950px){
   .projects-section-header {
   	margin-top: 25px;
     font-size: 15pt;
